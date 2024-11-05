@@ -1,7 +1,7 @@
 Izmijenite vaš Express poslužitelj tako da:
-1. Nadogradite postojeću GET rutu / koja sad mora vratiti HTML stranicu s <h1> naslovom "Hello,
+1. Nadogradite postojeću GET rutu / koja sad mora vratiti HTML stranicu s <h1 naslovom "Hello,
 Express!".
-2. Dodate još jednu GET rutu /about koja će vratiti HTML stranicu s <h1> naslovom "Ovo je stranica o
+2. Dodate još jednu GET rutu /about koja će vratiti HTML stranicu s <h1 naslovom "Ovo je stranica o
 nama!".
 Obje HTML stranice pohranite u direktorij /public .
 Kako biste vratili podatke u obliku HTML stranice, koristite res.sendFile() metodu.
